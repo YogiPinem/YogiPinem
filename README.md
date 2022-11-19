@@ -1,6 +1,15 @@
-- Hi, I’m Yogi Immanuel Pinem
+# Hi, I'm Yogi Immanuel Pinem
+## About Me
+- I'm currently learning Web Programming
+- Reach me at pinem222@gmail.com
 
-<!---
-YogiPinem/YogiPinem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Education
+#### 1. [Institut Teknologi Sumatera ](https://www.itera.ac.id) | Informatics Engineering | Lampung `2020-Now`
+#### 2. SMA N 1 Laguboti | IPA | Laguboti `2017-2020`
+
+## Work Experience
+#### -
+<br/>
+<br/>
+
+## Connect with Me
