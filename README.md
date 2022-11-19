@@ -5,7 +5,7 @@
 
 ## Education
 #### 1. [Institut Teknologi Sumatera ](https://www.itera.ac.id) | Informatics Engineering | Lampung `2020-Now`
-#### 2. SMA N 1 Laguboti | IPA | Laguboti `2017-2020`
+#### 2. SMA Negeri 1 Laguboti | IPA | Laguboti `2017-2020`
 
 ## Work Experience
 #### -
