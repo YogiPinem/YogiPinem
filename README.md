@@ -13,3 +13,5 @@
 <br/>
 
 ## Connect with Me
+[![website](./img/instagram-light.svg)](https://instagram.com/yogipinem#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/yogipinem#gh-dark-mode-only)
