@@ -1,6 +1,6 @@
 # Hi, I'm Yogi Immanuel Pinem
 ## About Me
-- I'm currently learning Web Programming
+- I'm currently learning Web Programming<img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="20px">
 - Reach me at pinem222@gmail.com
 
 ## Education
