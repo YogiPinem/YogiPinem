@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm Yogi Immanuel Pinem<br>🏫 Informatic Engineering Student at the Sumatera Institute of Technology<br>📖 Currentlt Learning React JS
+👨‍💻 I'm Yogi Immanuel Pinem<br>🏫 Informatic Engineering Student at the Sumatera Institute of Technology<br>📖 Currently Learning React JS
 
 
 ## 🌐 Socials:
